@@ -6,3 +6,9 @@ let instructor = {
     numberOfRepos: 200,
   },
 };
+
+console.log (instructor.name );
+console.log (instructor.courses );
+console.log( instructor.githubAccount.username);
+
+alert ( " ساتاذ مناور اقوى مدرس ويب ")
